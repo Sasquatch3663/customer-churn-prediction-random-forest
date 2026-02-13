@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# Data files (DON'T upload dataset)
+data/*.csv
+
+# Saved models
+models/*.pkl
+
+# Large outputs
+reports/figures/*.png
